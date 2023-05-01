@@ -1,7 +1,7 @@
 {
   "name": "graphql-codegen-signed-operation",
   "author": "IlijaNL",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "types": "dist/plugin.d.ts",
   "main": "dist/plugin.js",
   "files": [
