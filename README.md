@@ -1,4 +1,6 @@
-# GraphQL-Codegen-Signed-Operation
+# GraphQL-Codegen-Signed-Operation (Archived)
+
+**This repository is archived due to https://github.com/ilijaNL/graphql-codegen-on-operations which provides more flexibility**
 
 A plugin for [https://the-guild.dev/graphql/codegen](graphql-codegen) to create a signature from your documents which can be validated on the server
 
